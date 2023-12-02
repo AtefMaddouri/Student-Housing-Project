@@ -3,8 +3,7 @@ For 4th year classes (engineering degree): ESPRIT engineering school
 
 ## Class Diagram
 
-[//]: # (![img.png]&#40;img.png&#41;)
-
+![img_1.png](img_1.png)
 
 ## Requirements
 

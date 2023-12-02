@@ -15,7 +15,6 @@ import lombok.experimental.FieldDefaults;
 @FieldDefaults(level = AccessLevel.PRIVATE)
 public class University extends BaseEntity {
 
-
     String universityName;
     String adresse;
     @OneToOne(fetch = FetchType.LAZY)
