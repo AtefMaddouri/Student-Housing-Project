@@ -14,7 +14,7 @@ For building and running the application you need:
 ## Running the application locally
 
 There are several ways to run a Spring Boot application on your local machine.
-One way is to execute the `main` method in the `tn.esprit.SkiStationProject.SkiStationProjectApplication` class from your IDE.
+One way is to execute the `main` method in the `tn.esprit.studenthousing.StudentHousingApplication` class from your IDE.
 
 Alternatively you can use the [Spring Boot Maven Wrapper plugin](https://maven.apache.org/wrapper/) like so:
 
